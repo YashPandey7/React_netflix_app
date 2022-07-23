@@ -8,7 +8,7 @@ Top 5 Netflix series of all time <br />
 4 - Peaky Blinders.<br />
 5 - Lucifer.
 
-![App Screenshot](https://raw.githubusercontent.com/YashPandey7/React_netflix_app/main/public/images/Screenshot%20(47).png)
+[![App Screenshot](https://raw.githubusercontent.com/YashPandey7/React_netflix_app/main/public/images/Screenshot%20(47).png)](https://yashpandey7.github.io/React_netflix_app/)
 
 Website Link - 
 [yashpandey7.github.io/React_netflix_app](https://yashpandey7.github.io/React_netflix_app/)
